@@ -1,0 +1,4 @@
+// Enter your custom team ID and bundle ID here.
+// Do not commit the results into the git repository.
+DEVELOPMENT_TEAM = L593E366D8;
+PRODUCT_BUNDLE_IDENTIFIER = io.noim.YAYalu;
